@@ -1,3 +1,7 @@
+All information, structures, definitions, and materials contained within this repository are not subject to external interpretation, modification, or derivative reframing.
+Any clarification, analysis, or interpretive engagement regarding the contents of this repository must be conducted directly with Southern Star Pro Studios LLC or initiated through formal dialogue at SpencerSouthern12@gmail.com.
+No third‑party claims of ambiguity, reinterpretation, or alternative meaning are valid without explicit written authorization from Southern Star Pro Studios LLC.
+
 # Mint-to-Logic-Universe-digital-Physical-Space
 Mint‑to Logic Universe isn’t just a landing page it’s the public‑facing gateway into a sovereign substrate ecosystem.
 
